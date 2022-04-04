@@ -21,7 +21,7 @@ class FirstScreen extends StatelessWidget {
               ),
             );
           },
-          child: Text("First Page "),
+          child: Text("First Page ", style: TextStyle(fontSize: 40, fontFamily: 'PaletteMosaic'),),
         ),
       ),
     );
